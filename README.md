@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rahul Karande</h1>
 
-<!--
-**RahulKarande1695/RahulKarande1695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+MERN Stack Developer | React.js | Node.js | MongoDB
+</h3>
 
-Here are some ideas to get you started:
+Building scalable web applications, admin dashboards, and business management platforms using modern JavaScript technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🔭 Currently building a MERN Retail Management Platform
+
+🌱 Learning advanced backend architecture, system design, and cloud deployment
+
+👨‍💻 Working with React.js, Next.js, Node.js, Express.js, MongoDB
+
+💬 Ask me about React.js, Redux Toolkit, Node.js, Express.js, MongoDB
+
+📫 Reach me at: rahulkarande1695@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- Redux Toolkit
+- Material UI
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Database
+- MongoDB
+- Mongoose
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+---
+
+## 📈 Current Focus
+
+- MERN Retail Management Platform
+- Role Based Access Control
+- Dashboard Analytics
+- Inventory Management System
+- Customer Order Management
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulKarande1695&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKarande1695&layout=compact)
