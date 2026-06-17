@@ -18,7 +18,7 @@ Building scalable web applications, admin dashboards, and business management pl
 
 💬 Ask me about React.js, Redux Toolkit, Node.js, Express.js, MongoDB
 
-📫 Reach me at: rahulkarande1695@gmail.com
+📫 Reach me at: rahulkarande.web@gmail.com
 
 ---
 
